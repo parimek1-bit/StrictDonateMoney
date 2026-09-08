@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StrictDonateMoney:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StrictDonateMoney_jar</output-path>
+    <root id="archive" name="StrictDonateMoney.jar">
+      <element id="module-output" name="StrictDonateMoney" />
+    </root>
+  </artifact>
+</component>

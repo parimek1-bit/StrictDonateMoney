@@ -1,0 +1,8 @@
+name: StrictDonateMoney
+version: '1.0'
+main: play.strictmc.ru.strictdonatemoney.StrictDonateMoney
+api-version: '1.16'
+authors: [ vstep, parimek, StrictMC ]
+description: Плагин просто добавляет донатную валюту. Точнее заглушка поверх плагина PlayerPoints
+website: https://strictmc.ru/
+depend: [PlayerPoints]
